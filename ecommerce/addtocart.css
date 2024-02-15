@@ -1,0 +1,22 @@
+
+#itemname{
+    width: 60%;
+    border-radius: 3px;
+    padding: 10px;
+}
+#price{
+    width: 60%;
+    border-radius: 3px;
+    padding: 10px;
+}
+#description{
+    width: 60%;
+    border-radius: 3px;
+    padding: 10px;
+}
+#quantity{
+    width: 60%;
+    border-radius: 3px;
+    padding: 10px;
+}
+
